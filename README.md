@@ -1,9 +1,8 @@
 <h1>Hi 👋, I'm <a target="blank" href="https://www.linkedin.com/in/prakhar-tiwari-a1a654213/"> Prakhar tiwari</a>.</h1><br>
-👨‍💻 A passionate Developer and Learner from India.<br>
-🌱  I’m fullstack web devloper.<br>
+👨‍💻 A passionate software engineer and Learner from India.<br>
+🌱  I have proficiency in python and data structures and algorithm.<br>
 🤝 Feel free to reach out to me for some techy discussion.<br>
-💬 You can contact me via tiwariprakhar037@gmail.com ! I'll try to respond as soon as possible.<br>
-⚡ I love Open Source.
+💬 You can contact me via tiwariprakhar037@gmail.com ! I'll try to respond as soon as possible.<br>.
 
 
 ## 🌐 Socials:
