@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm <a target="blank" href="https://portfolio-13b734.spheron.app/"> Prakhar tiwari</a>.</h1><br>
+<h1>Hi 👋, I'm <a target="blank" href="https://www.linkedin.com/in/prakhar-tiwari-a1a654213/"> Prakhar tiwari</a>.</h1><br>
 👨‍💻 A passionate Developer and Learner from India.<br>
 🌱  I’m fullstack web devloper.<br>
 🤝 Feel free to reach out to me for some techy discussion.<br>
